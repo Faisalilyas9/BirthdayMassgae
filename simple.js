@@ -5,9 +5,8 @@ function Name(){
 console.log(Name());
 
 function SGift(){
-document.write(prompt("Ap ko konsa Gift Chaiye is Birthday pr?"));
+document.write(prompt("Ap ko konsa Gift Chaiye es Birthday pr?"));
 
 
 }
 console.log(SGift());
-
