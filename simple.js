@@ -1,6 +1,6 @@
 function Name(){
     alert("What is Your Name?");
-    alert(`Happy Birthday 🎉🎈🥳 🎂 ${prompt()}🎂🎊`);
+    alert(`Happy Birthday 🎉🥳🎂 ${prompt()} 🎈🎂🎊`);
 }
 console.log(Name());
 
